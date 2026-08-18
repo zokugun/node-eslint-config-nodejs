@@ -54,7 +54,7 @@
 		"watch:src": "tsc-watch -p src"
 	},
 	"dependencies": {
-		"@zokugun/eslint-toolkit": "0.1.1"
+		"@zokugun/eslint-toolkit": "0.3.0"
 	},
 	"devDependencies": {
 		"@commitlint/cli": "20.5.3",
